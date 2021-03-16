@@ -1,5 +1,6 @@
 'use strict'
 
-function cachito-npm-test() {
-    return ""
+function cachitoNpmWithDeps() {
+    return "Hello World!"
 }
+console.log(cachitoNpmWithDeps())
