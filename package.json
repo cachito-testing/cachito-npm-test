@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "chai": "4.2.0",
-    "fecha": "git+https://github.com/taylorhakes/fecha.git",
+    "fecha": "https://github.com/taylorhakes/fecha/archive/91680e4db1415fea33eac878cfd889c80a7b55c7.tar.gz",
     "test-npm-dep": "https://elinah@bitbucket.org/elinah/test-npm-dep.git",
     "cachito-npm-without-deps": "github:cachito-testing/cachito-npm-without-deps.git"
   },
