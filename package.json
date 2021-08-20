@@ -15,7 +15,7 @@
   },
   "peerDependenciesMeta": {
     "react": {
-      "optional": true
+      "optional": false
     }
   }
 }
