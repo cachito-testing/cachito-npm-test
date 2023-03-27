@@ -4,7 +4,8 @@
   "dependencies": {
     "chai": "4.2.0",
     "is-positive": "github:kevva/is-positive.git",
-    "fecha": "https://github.com/taylorhakes/fecha/archive/91680e4db1415fea33eac878cfd889c80a7b55c7.tar.gz"
+    "fecha": "https://github.com/taylorhakes/fecha/archive/91680e4db1415fea33eac878cfd889c80a7b55c7.tar.gz",
+    "assertion-error": "1.1.0"
   },
   "devDependencies": {
     "cachito-npm-without-deps": "git+https://github.com/cachito-testing/cachito-npm-without-deps.git"
